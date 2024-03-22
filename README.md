@@ -33,25 +33,8 @@
 &nbsp;
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabmedeiross&show_icons=true&layout=compact&theme=light" />
+  <img align="center" src="https://github-readme-stats-mocha-xi-66.vercel.app/api/top-langs/?username=gabmedeiross&show_icons=true&layout=compact&theme=light" />
 </a> 
-
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabmedeiross&show_icons=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=gabmedeiross)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabmedeiross&show_icons=true&theme=dark)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a> 
--->
 
 
 
