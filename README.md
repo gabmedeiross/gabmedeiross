@@ -1,10 +1,5 @@
 ### **Olá! Eu sou o Gabriel Medeiros**
 
-
-
-
-### My Skills
-
 #### Main Stack:
 
 ![SQL](https://img.shields.io/badge/SQL-39457E?style=for-the-badge&logo=SQL&logoColor=white)&nbsp;
@@ -19,6 +14,8 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
+![Excel](https://img.shields.io/badge/Agile_Methodologies-593D88?style=for-the-badge&logo=AGILE&logoColor=white)&nbsp;
 
 #### Databases:
 ![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
@@ -34,6 +31,30 @@
 
 &nbsp;
 &nbsp;
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabmedeiross&show_icons=true&layout=compact&theme=light" />
+</a> 
+
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabmedeiross&show_icons=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=gabmedeiross)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabmedeiross&show_icons=true&theme=dark)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a> 
+-->
+
+
+
 
 ## Contacts:
 
