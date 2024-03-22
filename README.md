@@ -1,4 +1,6 @@
-### **Olá! Eu sou o Gabriel Medeiros**
+### **Olá! Eu sou o Gabriel Medeiros 👋🏼**
+
+Sou um apaixonado estudante pelo fascinante mundo dos dados. Minha formação acadêmica forneceu uma base sólida em modelagem de dados, otimização de consultas e segurança de banco de dados, o que despertou meu interesse para transformar dados em insights estratégicos capazes de orientar decisões de negócios e promover crescimento sustentável. Dedico-me ao profundo estudo de bancos de dados, python e powerbi
 
 #### Main Stack:
 
