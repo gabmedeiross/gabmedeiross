@@ -35,9 +35,14 @@
 &nbsp;
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-mocha-xi-66.vercel.app/api/top-langs/?username=gabmedeiross&show_icons=true&layout=compact&theme=light" />
+  <img align="center" src="https://github-readme-stats-mocha-xi-66.vercel.app/api/top-langs/?username=gabmedeiross&show_icons=true&layout=compact&theme=black" />
 </a> 
 
+
+##
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gabmedeiross&theme=modern-lilac2&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
 
@@ -53,3 +58,5 @@
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C539B4&height=120&section=footer"/>
+
+
