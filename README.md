@@ -1,62 +1,47 @@
-### **Olá! Eu sou o Gabriel Medeiros 👋🏼**
+# Olá! Eu sou o Gabriel Medeiros ✌️
+### Tecnólogo em Banco de Dados com carreira direcionada para Infraestrutura de TI, Cloud e Suporte Técnico.
 
-📚🛠️📊 Técnologo recém formado em banco de dados na Universidade Estácio de Sá e fascinado pelo mundo dos dados. Minha formação acadêmica forneceu uma base sólida em modelagem de dados, otimização de consultas e segurança de banco de dados, o que despertou meu interesse para transformar dados em insights estratégicos capazes de orientar decisões de negócios e promover crescimento sustentável. Me dedico ao profundo estudo em Bancos de dados, Python e PowerBI. </p>
+Minha abordagem combina a resolução de problemas práticos do dia a dia, adquirida em experiências com suporte técnico, com um estudo contínuo das melhores práticas e tecnologias de mercado para projetar e manter ambientes de TI estáveis, seguros e eficientes.
 
-#### Main Stack:
+---
 
-![SQL](https://img.shields.io/badge/SQL-39457E?style=for-the-badge&logo=SQL&logoColor=white)&nbsp;
+### 🛠️ Principais Competências
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white" alt="Windows Server"/>
+  <img src="https://img.shields.io/badge/Active%20Directory-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Active Directory"/>
+  <img src="https://img.shields.io/badge/Microsoft%20365-0078D6?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft 365"/>
+  <img src="https://img.shields.io/badge/Troubleshooting-D94800?style=for-the-badge&logo=git&logoColor=white" alt="Troubleshooting"/>
+  <img src="https://img.shields.io/badge/Suporte%20Técnico-D94800?style=for-the-badge&logo=headspace&logoColor=white" alt="Suporte Técnico"/>
+</p>
+
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+---
 
+### 🌱 Atualmente em Desenvolvimento e Aprimoramento
 
-#### Studying in this moment:
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure"/>
+  <img src="https://img.shields.io/badge/AZ--900-0078D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AZ-900"/>
+  <img src="https://img.shields.io/badge/AZ--104-0078D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AZ-104"/>
+  <img src="https://img.shields.io/badge/pfSense-C93F2B?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense Firewall"/>
+  <img src="https://img.shields.io/badge/Zabbix-C93F2B?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
-![Excel](https://img.shields.io/badge/Agile_Methodologies-593D88?style=for-the-badge&logo=AGILE&logoColor=white)&nbsp;
+---
 
-#### Databases:
-![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![OracleSQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)&nbsp;
+### 🚀 Destaque de Projeto: Infraestrutura Corporativa Completa
 
-#### Workstation Tools:
+Confira no meu repositório o projeto **"Gabe.Lab"**, onde planejei, implementei e documentei uma rede corporativa do zero usando Hyper-V, pfSense, Windows Server e Linux, incluindo serviços como Active Directory, DNS, DHCP, File Server e Web Server.
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)&nbsp;
+*(Link em breve)*
 
+---
 
-&nbsp;
-&nbsp;
+*Estou buscando ativamente posições em **Infraestrutura de TI** ou **Cloud** onde possa aplicar minhas habilidades e continuar a crescer profissionalmente. Aberto a novas conexões e desafios.*
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-mocha-xi-66.vercel.app/api/top-langs/?username=gabmedeiross&show_icons=true&layout=compact&theme=black" />
-</a> 
-
-
-##
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gabmedeiross&theme=modern-lilac2&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-
-
-
-## Contacts:
-
-<div> 
-<a href = "mailto:contato.gabriel.medeiros2023@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriel-m-23a00620a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
- 
-
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C539B4&height=120&section=footer"/>
-
-
+* 📫 **Como me encontrar:** [Gabriel Medeiros](https://www.linkedin.com/in/gabriel-m-23a00620a/) | gabriel.medeiros2023@outlook.com
