@@ -36,9 +36,9 @@ Minha abordagem combina a resolução de problemas práticos do dia a dia, adqui
 
 ### 🚀 Destaque de Projeto: Infraestrutura Corporativa Completa
 
-Confira no meu repositório o projeto **"Gabe.Lab"**, onde planejei, implementei e documentei uma rede corporativa do zero usando Hyper-V, pfSense, Windows Server e Linux, incluindo serviços como Active Directory, DNS, DHCP, File Server e Web Server.
+Confira no meu repositório o projeto **"Projeto-infra-gabe.lab"**, onde planejei, implementei e documentei uma rede corporativa do zero usando Hyper-V, pfSense, Windows Server e Linux, incluindo serviços como Active Directory, DNS, DHCP, File Server e Web Server.
 
-*(Link em breve)*
+*https://github.com/gabmedeiross/projeto-infra-gabe-lab*
 
 ---
 
